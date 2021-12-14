@@ -7,3 +7,11 @@
 ** Plan
 1. Commit the patent about combustion steady estimation.
 2. Check combustion steady monitoring function.
+* [2021-12-14 Tue]
+** Done
+1. 写专利，完成了对公式的修改以及对摘要部分的写作
+2. 完成两个模型的上传
+** Quesions
+1. 专利后面的部分具体实施方式不知道怎么写
+** Plan
+
